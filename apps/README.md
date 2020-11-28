@@ -24,3 +24,5 @@
 1. [`my_sensor_app`](my_sensor_app): Sensor Network Application
 
 1. [`boot_stub`](boot_stub): Mynewt Bootloader Stub
+
+foo.
